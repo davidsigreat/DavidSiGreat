@@ -35,17 +35,17 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[FRC 4270 Robot Code](https://github.com/DevColaDavid/frc-4270)** | Competition robot code for The Crusaders | Java · WPILib |
-| **[Kairos](https://github.com/DevColaDavid/kairos)** | Student productivity app — class tracking, scheduling, fitness & time analytics | Next.js · Prisma · Neon |
-| **[Trekly](https://github.com/DevColaDavid/Trekly)** | Group trip & hangout planner — shared calendar, chat, polls, notes, and expense splitting across web, iOS & Android | Expo · Supabase · TypeScript |
+| **[FRC 4270 Robot Code](https://github.com/davidsigreat/frc-4270)** | Competition robot code for The Crusaders | Java · WPILib |
+| **[Kairos](https://github.com/davidsigreat/kairos)** | Student productivity app — class tracking, scheduling, fitness & time analytics | Next.js · Prisma · Neon |
+| **[Trekly](https://github.com/davidsigreat/Trekly)** | Group trip & hangout planner — shared calendar, chat, polls, notes, and expense splitting across web, iOS & Android | Expo · Supabase · TypeScript |
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Stats](https://github-stats-extended.vercel.app/api?username=DevColaDavid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Stats](https://github-stats-extended.vercel.app/api?username=davidsigreat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Streak](https://streak-stats.demolab.com?user=DevColaDavid&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=davidsigreat&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=DevColaDavid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
