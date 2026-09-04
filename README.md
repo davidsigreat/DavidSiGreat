@@ -47,7 +47,7 @@
 
 ![Streak](https://streak-stats.demolab.com?user=davidsigreat&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=DevColaDavid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=davidsigreat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
