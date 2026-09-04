@@ -20,7 +20,6 @@
 - 🤖 **Programming Lead** for **FRC Team 4270 (The Crusaders)** & robotics mentor
 - ⚙️ Hands-on with **control systems** — motor control, subsystem commands, and mechanism actuation from FRC
 - 🛰️ Into robotics, CAD, and space
-- 🌐 Building full-stack web apps (currently **Kairos**, a student productivity platform)
 - 🏀 Basketball, JROTC, and church community when I'm off the keyboard
 
 ## 🛠️ Skills & Tools
