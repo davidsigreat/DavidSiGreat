@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=DevColaDavid&color=26d0ce&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=davidsigreat&color=26d0ce&style=flat-square)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=100&section=footer)
 
